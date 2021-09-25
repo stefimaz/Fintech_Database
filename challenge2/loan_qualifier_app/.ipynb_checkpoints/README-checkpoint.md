@@ -36,7 +36,7 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompts.
 
-![Loan Qualifier Prompts](/Images/loan_qalifier.png)
+![Loan Qualifier Prompts](Images/loan_qualifier.png)
 
 
 ---

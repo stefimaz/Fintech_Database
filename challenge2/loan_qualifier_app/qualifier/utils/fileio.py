@@ -44,6 +44,6 @@ def save_csv(output_path):
         csvwriter.writerow(header)
 
         for loan in qualifying_loan:
-            csvwriter.writerow(loan.values())
+            csvwriter.writerow(loan)
         
     return qualifying_loan

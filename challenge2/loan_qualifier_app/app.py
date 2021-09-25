@@ -112,10 +112,13 @@ def save_qualifying_loans(qualifying_loans):
     
     save_loan = str(save_loan)
     
-    if save_loan == str("y"):
+  # this following code is wrong way to call the other function
+      if save_loan == str("y"):
         save_loan = True
         qualifying_loans.append(save_csv)
-
+        
+       # return save_csv
+#code over this line not right 
 
 
 def run():
