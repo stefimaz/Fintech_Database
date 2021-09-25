@@ -108,17 +108,13 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    save_loan = questionary.confirm("Would you like to save your qualifying loan (y) or (n)?").ask()
+    save_loan = questionary.confirm("Would you like to save your qualifying loan (yes) or (no)?").ask()
     
-    save_loan = str(save_loan)
-    
-  # this following code is wrong way to call the other function
-      if save_loan == str("y"):
-        save_loan = True
-        qualifying_loans.append(save_csv)
+  
+    if save_loan == True:
         
-       # return save_csv
-#code over this line not right 
+        save_csv(qualifying_loans)
+
 
 
 def run():

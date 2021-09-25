@@ -31,19 +31,19 @@ def load_csv(csvpath):
     return data
 
 
-def save_csv(output_path): 
+def save_csv(qualifying_loans): 
     """This next function will use the csv library to save the qualifying data as a CSV file"""
-    qualifying_loan = []
+   
     output_path = Path("qualifying_loan.csv")
     header = ["Lender", "Max_loan_amount"]
     
     with open(output_path, "w", newline='') as csvfile:
         
-        csvwriter = csv.write(csvfile) 
+        csvwriter = csv.writer(csvfile) 
         
         csvwriter.writerow(header)
 
-        for loan in qualifying_loan:
+        for loan in qualifying_loans:
             csvwriter.writerow(loan)
         
-    return qualifying_loan
+    
