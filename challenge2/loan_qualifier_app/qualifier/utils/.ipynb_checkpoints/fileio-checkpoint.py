@@ -35,7 +35,7 @@ def save_csv(qualifying_loans):
     """This next function will use the csv library to save the qualifying data as a CSV file"""
    
     output_path = Path("qualifying_loan.csv")
-    header = ["Lender", "Max_loan_amount"]
+    header = ["Lender", "Max_loan_amount","Max_LTV","Max_DTI","Min_credit_score","Interest_rate"]
     
     with open(output_path, "w", newline='') as csvfile:
         

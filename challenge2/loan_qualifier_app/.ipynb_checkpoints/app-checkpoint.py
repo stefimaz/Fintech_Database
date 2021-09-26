@@ -112,7 +112,7 @@ def save_qualifying_loans(qualifying_loans):
     
   
     if save_loan == True:
-        
+    # this is where I call the save_csv from the fileio.py inside the qualifier/utils folder    
         save_csv(qualifying_loans)
 
 

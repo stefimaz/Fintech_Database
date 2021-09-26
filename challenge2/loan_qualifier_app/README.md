@@ -28,7 +28,7 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-TTo use the loan qualifier application simply clone the repository and run the **app.py** with:
+To use the loan qualifier application simply clone the repository and run the **app.py** with:
 
 ```python
 python app.py
