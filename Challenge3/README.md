@@ -1,11 +1,11 @@
 # Bitcoin Arbitrage 
 
-Looking over historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. 
+Looking over historical trade data during the early months of 2018 for Bitcoin on two exchanges: Bitstamp and Coinbase. 
 
 
 The goal is to Collect CSV data in a Jupyter notebook file.
 Prepare the datasets for analysis by cleaning missing and erroneous data.
-Analyze the data at a high level through summary statistics and visualizations, and use this information to select areas for deeper analysis. Specifically, you’ll select time periods in which to identify arbitrage opportunities.
+Analyze the data at a high level through summary statistics and visualizations, and use this information to select areas for deeper analysis. Specifically, selecting time periods in which to identify arbitrage opportunities.
 
 ---
 
@@ -32,16 +32,7 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the loan qualifier application simply clone the repository and run the **app.py** with:
-
-```python
-python app.py
-```
-
-Upon launching the loan qualifier application you will be greeted with the following prompts.
-
-![Loan Qualifier Prompts](Images/loan_qualifier.png)
-
+To use Bitcoin arbitrage Notebook simply open the **crypto_arbitrage.ipynb** file in Jupyter.
 
 ---
 
