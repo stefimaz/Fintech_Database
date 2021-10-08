@@ -1,11 +1,19 @@
 # Bitcoin Arbitrage 
 
-Looking over historical trade data during the early months of 2018 for Bitcoin on two exchanges: Bitstamp and Coinbase. 
+Looking over historical data value of Bitcoin during the first three months of 2018 (January, February and March) on two different exchanges: Bitstamp and Coinbase. 
 
 
 The goal is to Collect CSV data in a Jupyter notebook file.
 Prepare the datasets for analysis by cleaning missing and erroneous data.
-Analyze the data at a high level through summary statistics and visualizations, and use this information to select areas for deeper analysis. Specifically, selecting time periods in which to identify arbitrage opportunities.
+Analyze the data at a high level through summary statistics and visualizations.
+Use this information to select areas for deeper analysis.
+Differentiate between early in the timeframe and later in the timeframe.
+Specifically, selecting time periods in which to identify arbitrage opportunities.
+
+Analyzing data over 2 different monthy period in 2018: from January 01 to January 31 and from March 01 to March 31.
+Analyzing data over 3 specific days: January 16, February 24 and March 26. 
+
+After analyzing the data, we can see the arbitrage between Coinbase and Bitstamp was possible to be realized with a profit early on but disapeared with time.  
 
 ---
 
@@ -17,18 +25,10 @@ This project leverages python 3.7 with the following libraries:
 
 * [Path](https://docs.python.org/3/library/pathlib.html) - For informations
 
----
-
-## Installation Guide
-
-Before running the application first install the following dependencies.
-
-```python
-  pip install fire
-  pip install questionary
-```
+* Matplotlib
 
 ---
+
 
 ## Usage
 
