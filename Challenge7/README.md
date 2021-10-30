@@ -35,7 +35,7 @@ To install Voila, open a terminal window, and complete the following steps.
 3 Confirm that the installation succeeded by running the following command
 ```python
   conda list voila
-    ```
+```
 If Voila successfully installed, a similar terminal window as the following image shows
  [Voila install confirmation](Images/voila_install_confirm.png)
 
@@ -61,7 +61,7 @@ voila <relative-path-to-notebook>
 
 this screenshot (or video) of the deployed application using Voila.
 
-![voila localhost image](Images/voila_eft_analyzer.png)
+![voila localhost image](Images/Voila_record.mov)
 
 ---
 
