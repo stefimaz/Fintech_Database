@@ -61,7 +61,9 @@ voila <relative-path-to-notebook>
 
 this screenshot (or video) of the deployed application using Voila.
 
-![voila localhost image](Images/Voila_record.mov)
+![voila localhost image](Images/voila_screen1.png)
+![voila localhost image](Images/voila_screen2.png)
+![voila localhost image](Images/voila_screen3.png)
 
 ---
 
