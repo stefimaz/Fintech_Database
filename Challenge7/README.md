@@ -59,7 +59,7 @@ Voilà accepts a path to the notebook and then generates a web app with any visu
 voila <relative-path-to-notebook>
 ```
 
-this screenshot (or video) of the deployed application using Voila.
+this screenshot of the deployed application using Voila.
 
 ![voila localhost image](Images/voila_screen1.png)
 ![voila localhost image](Images/voila_screen2.png)
