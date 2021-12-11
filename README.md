@@ -18,20 +18,20 @@ This repository contains all of the assignments from the [Columbia University Fi
 | API                              | [05 API](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                           |
 | PyViz                            | [06_Py-viz](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                        |
 | SQL                              | [07 Sequal](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                        |
-| Project1. Dividend Reinvesting!  | [Dividend Reinvesting](https://github.com/illyanyc/powerfolio)                                               |
+| Project1. Dividend Reinvesting!  | [Dividend Reinvesting](https://github.com/stefimaz/Project1)                                               |
 | Unsupervised Learning            | [10 Unsupervised Learning](https://github.com/stefimaz/fintech_bootcamp_challenges/)                         |
-| Time-Series                      | [11_Time-series](https://github.com/illyanyc/cu_fintech_assignments/tree/main/10_time_series)                |
-| Supervised Learning              | [12_Supervised_Leaning](https://github.com/illyanyc/cu_fintech_assignments/tree/main/11_machine_learning)    |
-| Neural Network                   | [13 Neural Network](https://github.com/illyanyc/cu_fintech_assignments/tree/main/12_nlp)                     |
-| Algorithmic Trading              | [14_Algotihmic Trading](https://github.com/illyanyc/unit13-ClusteringCrypto)                                 |
-| AWS - Machine Learning           | [15_Robot Advisors](https://github.com/illyanyc/cu_fintech_assignments/tree/main/15_algorithmic_trading)     |
-| Project2.                        | [](https://github.com/illyanyc/technitrade)                                                                  |
-| Blockchain                       | [18_Blockchain](https://github.com/illyanyc/cu_fintech_assignments/tree/main/18_blockchain)                  |
-| Blockchain Wallets               | [19_Blockchain_Wallets](https://github.com/illyanyc/cu_fintech_assignments/tree/main/19_blockchain_python)   |
-| Solidity                         | [20_Solidity](https://github.com/illyanyc/cu_fintech_assignments/tree/main/20_solidity)                      |
-| Tokenomics                       | [21 Tokenomics](https://github.com/illyanyc/cu_fintech_assignments/tree/main/20_solidity)                    |
-| Decentralized Applications       | [22 dApp Building](https://github.com/illyanyc/cu_fintech_assignments/tree/main/20_solidity)                 |
-| Project3.                        | [](https://github.com/illyanyc/option-block)                                                      |
+| Time-Series                      | [11_Time-series](https://github.com/stefimaz/fintech_bootcamp_challenges/)               |
+| Supervised Learning              | [12_Supervised_Leaning](https://github.com/stefimaz/fintech_bootcamp_challenges/)    |
+| Neural Network                   | [13 Neural Network](https://github.com/stefimaz/fintech_bootcamp_challenges/)                     |
+| Algorithmic Trading              | [14_Algotihmic Trading](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                 |
+| AWS - Machine Learning           | [15_Robot Advisors](https://github.com/stefimaz/fintech_bootcamp_challenges/)      |
+| Project2.                        | [](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                                         |
+| Blockchain                       | [18_Blockchain](https://github.com/stefimaz/fintech_bootcamp_challenges/)                  |
+| Blockchain Wallets               | [19_Blockchain_Wallets](https://github.com/stefimaz/fintech_bootcamp_challenges/)    |
+| Solidity                         | [20_Solidity](https://github.com/stefimaz/fintech_bootcamp_challenges/)                     |
+| Tokenomics                       | [21 Tokenomics](https://github.com/stefimaz/fintech_bootcamp_challenges/)                    |
+| Decentralized Applications       | [22 dApp Building](https://github.com/stefimaz/fintech_bootcamp_challenges/)                  |
+| Project3.                        | [](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                                     |
 
 ---
 
