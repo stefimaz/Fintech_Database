@@ -11,18 +11,18 @@ This repository contains all of the assignments from the [Columbia University Fi
 
 | Class                            | Repo Link                                                                                                    |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Financial Programing             | [01_Intro_to_finance](https://github.com/stefimaz/fintech_bootcamp_challenges/)                              |
-| Python                           | [02_Python](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                        |
-| Pandas                           | [03_Pandas](https://github.com/stefimaz/fintech_bootcamp_challenges/s)                                       |
-| Quantitative Analysis            | [04_Quantitative Analysis](https://github.com/stefimaz/fintech_bootcamp_challenges/)                         |
-| API                              | [05 API](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                           |
-| PyViz                            | [06_Py-viz](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                        |
-| SQL                              | [07 Sequal](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                        |
+| Financial Programing             | [01_Intro_to_finance](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C1_Financial_programing)          |
+| Python                           | [02_Python](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C2_Python)                                  |
+| Pandas                           | [03_Pandas](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C3_Pandas)                                 |
+| Quantitative Analysis            | [04_Quantitative Analysis](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C4_Quantitative_analysis)       |
+| API                              | [05 API](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C5_API)                                           |
+| PyViz                            | [06_Py-viz](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C6_PyViz)                              |
+| SQL                              | [07 Sequal](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C7_SQL)                                        |
 | Project1. Dividend Reinvesting!  | [Dividend Reinvesting](https://github.com/stefimaz/Project1)                                               |
-| Unsupervised Learning            | [10 Unsupervised Learning](https://github.com/stefimaz/fintech_bootcamp_challenges/)                         |
-| Time-Series                      | [11_Time-series](https://github.com/stefimaz/fintech_bootcamp_challenges/)               |
-| Supervised Learning              | [12_Supervised_Leaning](https://github.com/stefimaz/fintech_bootcamp_challenges/)    |
-| Neural Network                   | [13 Neural Network](https://github.com/stefimaz/fintech_bootcamp_challenges/)                     |
+| Unsupervised Learning            | [10 Unsupervised Learning](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C10_Unsupervised_learniing)     |
+| Time-Series                      | [11_Time-series](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C11_Time_series)               |
+| Supervised Learning              | [12_Supervised_Leaning](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C12_Supervised_learniing)    |
+| Neural Network                   | [13 Neural Network](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C13_Neural_network)                     |
 | Algorithmic Trading              | [14_Algotihmic Trading](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                 |
 | AWS - Machine Learning           | [15_Robot Advisors](https://github.com/stefimaz/fintech_bootcamp_challenges/)      |
 | Project2.                        | [](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                                         |
