@@ -83,35 +83,43 @@ Decrease trading window to 1 months
 
 #### Step 1: Tune the training algorithm by adjusting the size of the training dataset:
 
-Answer the following question: What impact resulted from increasing or decreasing the training window?
+#### Answer the following question: What impact resulted from increasing or decreasing the training window?
 
-By increasing the window, we have a better accuracy for the 6 months period but worst for the 9 months period. we can also see that the spread between the actual and the strategy returns is wilder. Meaning that at some point in the timeframe the strategy returns are much worst and at other much better. This suggest that increasing the window period increse the risk.
+By increasing the training window, we have a better accuracy for the 6 months period as well as bigger returns at the end of the trading period.
 
-But by decreasing the window to 1 month, we get a more stable strategy that keep the same accuracy. This window also shows less risk as the strategy projection always stays above the actual returns.
+we can also see that the spread between the actual returns and the strategy returns is wilder or more volatile. Meaning that at some point in the timeframe the strategy returns are much worst and at other much better. This suggest that increasing the window period increase the risk. 
+
+But it seems that that risk can be mitigated by going with a much longer period for training the model. as the 18 months period shows. 
+
+Also, by decreasing the window to 1 month, we get a more stable strategy that keep the same accuracy. This window also shows less risk as the strategy projection always stays above the actual returns and there is much less negative volatility and less risk.
 
 #### Step 2: Tune the trading algorithm by adjusting the SMA input features.
 
-Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
+#### Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
+After testing different SMA windows, the better returns is using a short window of 4 and long window of 150.
 
-### Side note
-
-so far best is adabooster with 1 month window and SMA of 4 and 50
 
 ---
 
 ### Backtesting a new model to evaluate its performance:
 
-Using the Logistic Regression Classifier gives the better results compare to the other classifiers.
-![cumulative_return_plot](Images/Logisticreg_fig.png)
+When staying with the initial 3 months period for training the model, using the AdaBooster Classifier gives the better end results compare to the other classifiers.
 
-Did this new model perform better or worse than the provided baseline model?
+![cumulative_return_plot](Images/Adaboost_fig.png)
 
-This new model performed better in the long run. But it also present more risk compare to the provided baseline model.  
+#### Did this new model perform better or worse than the provided baseline model?
 
-Did this new model perform better or worse than your tuned trading algorithm? 
+THe model using AdaBoost perform better if look at the final day of traiding. It return a slightly higher profit than the original model with the 3 months training period. 
+ 
 
-The model performed the best with the window changed to 1 month and the SMA long changed to 50 (no changed in SMA short)
+#### Did this new model perform better or worse than your tuned trading algorithm? 
+
+This model using AdaBooster did not take the SMA window change well at all and is now returning worst than the actual returns.
+
+But, the model that performed the best with the window changed to 6 month and the short window SMA at 4 and long window SMA at 150 is now the Decision Tree Classifier. This model gives much better final results then all of them. 
+
+![Tweaked LR model](Images/Decision_tree_tweaked4_150_6m_fig.png)
  
  
 ---
