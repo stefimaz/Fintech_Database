@@ -87,9 +87,9 @@ Decrease trading window to 1 months
 
 By increasing the training window, we have a better accuracy for the 6 months period as well as bigger returns at the end of the trading period.
 
-we can also see that the spread between the actual returns and the strategy returns is wilder or more volatile. Meaning that at some point in the timeframe the strategy returns are much worst and at other much better. This suggest that increasing the window period increase the risk. 
+We can also see that the spread between the actual returns and the strategy returns is wilder or more volatile. Meaning that at some point in the timeframe the strategy returns are much worst and at other much better. This suggest that increasing the window period increase the risk. 
 
-But it seems that that risk can be mitigated by going with a much longer period for training the model. as the 18 months period shows. 
+But it seems that that risk can be mitigated by going with a much longer period for training the model as the 18 months period shows. 
 
 Also, by decreasing the window to 1 month, we get a more stable strategy that keep the same accuracy. This window also shows less risk as the strategy projection always stays above the actual returns and there is much less negative volatility and less risk.
 
@@ -97,7 +97,10 @@ Also, by decreasing the window to 1 month, we get a more stable strategy that ke
 
 #### Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
-After testing different SMA windows, the better returns is using a short window of 4 and long window of 150.
+After testing different SMA windows, the better returns is using a short window of 4 and long window of 150. But the training period has to be changed to 6 months for better results. Without adapting the training period, the model does not perform better than the original.
+
+This is the resulting plot
+![cumulative_return_plot](Images/svmfig_6months_sma4_150.png)
 
 
 ---
