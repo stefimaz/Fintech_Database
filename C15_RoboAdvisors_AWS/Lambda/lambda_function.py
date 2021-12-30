@@ -124,24 +124,22 @@ def recommend_portfolio(intent_request):
     risk_level = get_slots(intent_request)["riskLevel"]
     source = intent_request["invocationSource"]
 
+    #validating the age
     if age is not None:
-        age = parse_int(
-            age)
-    
-        if age > 66:
+        age = parse_int(age)
+        if age <=0 and age > 65:
             return build_validation_result(
                 False,
                 "age",
                 "Your age should be under 65 "
                 "please provide a correct age.",
             )
-    return build_validation_result(True, None, None)
+    return build_validation_result(True, None, None) 
             
     
-    
+    #validating the investment amount
     if investment_amount is not None:
         investment_amount = parse_int(investment_amount)
-        
         if investment_amount < 5000:
             return build_validation_result(
                 False,
