@@ -24,7 +24,7 @@ This repository contains all of the assignments from the [Columbia University Fi
 | Supervised Learning              | [12_Supervised_Leaning](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C12_Supervised_learniing)    |
 | Neural Network                   | [13 Neural Network](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C13_Neural_network)                     |
 | Algorithmic Trading              | [14_Algotihmic Trading](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C14_Algorithmic_trading)        |
-| AWS - Machine Learning           | [15_Robot Advisors](https://github.com/stefimaz/fintech_bootcamp_challenges/)      |
+| AWS - Machine Learning           | [15_Robot Advisors](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C15_RoboAdvisors_AWS)      |
 | Project2.                        | [](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                                         |
 | Blockchain                       | [18_Blockchain](https://github.com/stefimaz/fintech_bootcamp_challenges/)                  |
 | Blockchain Wallets               | [19_Blockchain_Wallets](https://github.com/stefimaz/fintech_bootcamp_challenges/)    |
