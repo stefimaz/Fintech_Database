@@ -57,8 +57,7 @@ Install the following librarie(s) in your terminal...
 
 ## User Experience
 
-The streamlit app is run form your terminal and open on a localhost. To use this application, open your environement and type: streamlit run pychain.py.
-
+Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the pychain.py in your Jupyter Lab. Open a terminal and input streamlit run pychain.py or simply choose from the two options below.
 
 Please experience Blockchain for yourself. Choose between the following... 
 
