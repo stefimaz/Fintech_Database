@@ -20,7 +20,7 @@
 
 ## Overview
 
-Blockchain is an online application that allows our users to build a blockchain ledger system. While Python was used for the back-end code, Streamlit enhances the front-end user experience. This ledger allows the user to conduct financial transactions and validate the blockchain. 
+pychain.py is an application that allows the user to build a blockchain ledger. While Python was used for the back-end code, Streamlit enhances the front-end user experience. This ledger allows the user to conduct financial transactions and validate them to the blockchain. 
 
 ---
 
@@ -59,14 +59,10 @@ Install the following librarie(s) in your terminal...
 
 The streamlit app is run form your terminal and open on a localhost. To use this application, open your environement and type: streamlit run pychain.py.
 
+Or you can also click the link below and experience it online. 
 
-Please experience Blockchain for yourself. Choose between the following... 
+1) CLICK https://share.streamlit.io/stefimaz/fintech_bootcamp_challenges/main/C18_Blockchain_Python/pychain.py
 
-1) CLICK https://share.streamlit.io/jcsung-star/blockchain_ledger/main/pychain.py
-
-2) SCAN the QR Reader using the camera from your phone. 
-
-![QR_Code](images/qr_code.PNG)
 
 
 ---
