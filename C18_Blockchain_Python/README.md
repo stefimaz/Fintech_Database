@@ -11,7 +11,6 @@
 
 * [Overview](#overview)
 * [Requirements](#requirements)
-* [Data](#data)
 * [Visualization](#visualization)
 * [User Experience](#user-experience)
 * [License](#license)  
@@ -45,7 +44,8 @@ Install the following librarie(s) in your terminal...
 ## Visualization
 
 ## PyChain Ledger Demo using Streamlit:
-![pychain_app](Images/Screen_streamlit.mov)
+https://user-images.githubusercontent.com/89653430/150596077-2510dafb-5674-4b84-9416-f6c971ed7731.mp4
+
 
 ## Screenshot of the contents and hashes detailing a block of the blockchain:
 ![block_inspector](Images/Block_inspector1.png)
