@@ -26,7 +26,7 @@ This repository contains all of the assignments from the [Columbia University Fi
 | Algorithmic Trading              | [14_Algotihmic Trading](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C14_Algorithmic_trading)        |
 | AWS - Machine Learning           | [15_Robot Advisors](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C15_RoboAdvisors_AWS)      |
 | Project2.                        | [Praedico](https://github.com/stefimaz/Project2)                                                         |
-| Blockchain                       | [18_Blockchain](https://github.com/stefimaz/fintech_bootcamp_challenges/)                  |
+| Blockchain                       | [18_Blockchain](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C18_Blockchain_Python)                  |
 | Blockchain Wallets               | [19_Blockchain_Wallets](https://github.com/stefimaz/fintech_bootcamp_challenges/)    |
 | Solidity                         | [20_Solidity](https://github.com/stefimaz/fintech_bootcamp_challenges/)                     |
 | Tokenomics                       | [21 Tokenomics](https://github.com/stefimaz/fintech_bootcamp_challenges/)                    |
