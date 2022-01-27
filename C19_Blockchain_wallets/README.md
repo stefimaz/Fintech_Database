@@ -56,16 +56,16 @@ Install the following librarie(s) in your terminal...
 
 ## Visualization
  
-### Screenshot of the Ganache dashboard address, balance, and transaction (TX) count.
+### Screenshot of the Ganache dashboard address, balance, and transaction (TX) count:
 ![address info](Images/Ganache_balance.png)
   
 
-### Screenshot of the Ganache transactions transaction information.
-![transaction](images/Ganache_transaction.png)
+### Screenshot of the Ganache transactions transaction information:
+![transaction hash](images/Ganache_transaction.png)
  
 
 ## Streamlit application page, indicating the validity of the blockchain:
-![streamlit](images/Streamlit_validation.png)
+![streamlit sidebar](images/Streamlit_validation.png)
 
 ---
 
