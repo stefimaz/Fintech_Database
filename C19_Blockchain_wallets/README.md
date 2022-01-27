@@ -61,11 +61,11 @@ Install the following librarie(s) in your terminal...
   
 
 ### Screenshot of the Ganache transactions transaction information:
-![transaction hash](images/Ganache_transaction.png)
+![transaction hash](images/Transaction.png)
  
 
 ## Streamlit application page, indicating the validity of the blockchain:
-![streamlit sidebar](images/Streamlit_validation.png)
+![streamlit sidebar](images/Validation.png)
 
 ---
 

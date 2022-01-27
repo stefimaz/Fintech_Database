@@ -106,7 +106,7 @@ def get_people(w3):
         st.write("Name: ", db_list[number][0])
         st.write("Ethereum Account Address: ", db_list[number][1])
         st.write("FinTech Finder Rating: ", db_list[number][2])
-        st.write("Hourly Rate per Ether: ", db_list[number][3], "eth")
+        st.write(f"Hourly Rate in Ether: {db_list[number][3]} eth")
         st.text(" \n")
 
 ################################################################################
@@ -120,7 +120,7 @@ st.text(" \n")
 ################################################################################
 # Streamlit Sidebar Code - Start
 
-st.sidebar.markdown("## Client Account Address and Ethernet Balance in Ether")
+st.sidebar.markdown("## Client Account Address and Ethernet Balance in Ether:")
 
 ##########################################
 # Step 1 - Part 4:
@@ -135,7 +135,7 @@ account = generate_account()
 ##########################################
 
 # Write the client's Ethereum account address to the sidebar
-st.sidebar.write(account)
+st.sidebar.write(account.address)
 
 ##########################################
 # Step 1 - Part 5:
@@ -147,7 +147,7 @@ st.sidebar.write(account)
 # Call `get_balance` function and pass it your account address
 # Write the returned ether balance to the sidebar
 balance = get_balance(w3, account.address)
-st.sidebar.write(f"The balance of the customer's account in Ether is:{balance}")
+st.sidebar.subheader(f'ETH: {balance}')
 
 ##########################################
 
@@ -155,9 +155,10 @@ st.sidebar.write(f"The balance of the customer's account in Ether is:{balance}")
 person = st.sidebar.selectbox('Select a Person', people)
 
 # Create a input field to record the number of hours the candidate worked
-hours = st.sidebar.number_input("Number of Hours")
+hours = st.sidebar.number_input("Number of Hours", min_value=0.5, step=0.5)
+st.sidebar.write(f"You have selected {hours} Hours")
 
-st.sidebar.markdown("## Candidate Name, Hourly Rate, and Ethereum Address")
+st.sidebar.markdown("## Candidate Name, Hourly Rate, and Ethereum Address.")
 
 # Identify the FinTech Hire candidate
 candidate = candidate_database[person][0]
@@ -169,7 +170,7 @@ st.sidebar.write(candidate)
 hourly_rate = candidate_database[person][3]
 
 # Write the inTech Finder candidate's hourly rate to the sidebar
-st.sidebar.write(hourly_rate)
+st.sidebar.write(f'{hourly_rate} ETH per hour')
 
 # Identify the FinTech Finder candidate's Ethereum Address
 candidate_address = candidate_database[person][1]
@@ -179,7 +180,7 @@ st.sidebar.write(candidate_address)
 
 # Write the Fintech Finder candidate's name to the sidebar
 
-st.sidebar.markdown("## Total Wage in Ether")
+st.sidebar.markdown("## Total Wage in Ether:")
 
 ################################################################################
 # Step 2: Sign and Execute a Payment Transaction
@@ -242,7 +243,7 @@ wage = hourly_rate * hours
 
 # @TODO
 # Write the `wage` calculation to the Streamlit sidebar
-st.sidebar.write(wage)
+st.sidebar.write(f'{wage} ETH')
 
 ##########################################
 # Step 2 - Part 2:
@@ -275,7 +276,7 @@ if st.sidebar.button("Send Transaction"):
     st.sidebar.markdown("#### Validated Transaction Hash")
 
     # Write the returned transaction hash to the screen
-    st.sidebar.write(transaction_hash)
+    st.sidebar.write(f'{transaction_hash}')
 
     # Celebrate your successful payment
     st.balloons()
