@@ -19,7 +19,8 @@
 
 ## Overview
 
-Fintech_finder.py is an online application that allows our users to build a blockchain ledger system. While Python was used for the back-end code, Streamlit enhances the front-end user experience. This ledger allows the user to conduct financial transactions and validate the blockchain. 
+Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. It integrates with the Ethereum blockchain network into in order to enable the customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
+While Python was used for the back-end code, Streamlit enhances the front-end user experience.
 
 ---
 
