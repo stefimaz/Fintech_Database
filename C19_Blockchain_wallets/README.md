@@ -72,7 +72,7 @@ Install the following librarie(s) in your terminal...
 ## User Experience
 
 The streamlit app is run form your terminal and open on a localhost. To use this application, open your environement and type: streamlit run fintech_finder.py.
-
+Make sure all the file are present in the same folder.
 
 ---
 
