@@ -28,7 +28,7 @@ This repository contains all of the assignments from the [Columbia University Fi
 | Project2.                        | [Praedico](https://github.com/stefimaz/Project2)                                                         |
 | Blockchain                       | [18_Blockchain](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C18_Blockchain_Python)                  |
 | Blockchain Wallets               | [19_Blockchain_Wallets](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C19_Blockchain_wallets)    |
-| Solidity                         | [20_Solidity](https://github.com/stefimaz/fintech_bootcamp_challenges/)                     |
+| Solidity                         | [20_Solidity](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C20_Smart_contract_Solidity)                |
 | Tokenomics                       | [21 Tokenomics](https://github.com/stefimaz/fintech_bootcamp_challenges/)                    |
 | Decentralized Applications       | [22 dApp Building](https://github.com/stefimaz/fintech_bootcamp_challenges/)                  |
 | Project3.                        | [](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                                     |
