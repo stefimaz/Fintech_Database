@@ -7,9 +7,9 @@
 ### Table of Contents
 
 * [Overview](#overview)
-* [Requirements](#requirements)
-* [Visualization](#visualization)
-* [User Experience](#user-experience)
+* [Technologies](#Technologies)
+* [Usage](#Usage)
+* [Sample Visualization and Metrics](#Sample Visualization and Metrics)
 * [License](#license)  
 
 ## Overview
@@ -38,22 +38,16 @@ To use this application simply clone the repository and run credit_risk_resampli
 ## Sample Visualization and Metrics
 
 Value Counts for original dataset...
-![y_v_cl](Images/y_value_counts.PNG)
+![y_v_cl](images/Value_count.png)
 
 Balance Accuracy, Confision Matrix & Classification Report of original dataset
-![original](Images/original_data_results.PNG)
+![original](images/Matrix.png)
 
 Value Counts for resampled dataset...
-![y_r_v_cl](Images/y_resampled_value_counts.PNG)
+![y_r_v_cl](images/Value_count_resample.png)
 
 Balance Accuracy, Confision Matrix & Classification Report of Resampled dataset
-![resampled](Images/resampled_data_results.PNG)
-
----
-
-## Contributors
-
-linkedin.com/in/john-sung-3675569
+![resampled](images/Matrix resample.png)
 
 ---
 
