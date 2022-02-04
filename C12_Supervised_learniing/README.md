@@ -9,7 +9,7 @@
 * [Overview](#overview)
 * [Technologies](#Technologies)
 * [Usage](#Usage)
-* [Sample Visualization and Metrics](#Sample Visualization and Metrics)
+* [Visualization](#Visualization)
 * [License](#license)  
 
 ## Overview
