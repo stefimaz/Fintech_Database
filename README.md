@@ -13,7 +13,7 @@ This repository contains all of the assignments from the [Columbia University Fi
 |----------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Financial Programing             | [01_Intro_to_finance](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C1_Financial_programing)          |
 | Python                           | [02_Python](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C2_Python)                                  |
-| Pandas                           | [03_Pandas](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C3_Pandas)                                 |
+| Pandas                           | [03_Crypto Arbitrage](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C3_Pandas)                                 |
 | Quantitative Analysis            | [04_Quantitative Analysis](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C4_Quantitative_analysis)       |
 | API                              | [05 API](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C5_API)                                           |
 | PyViz                            | [06_Py-viz](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C6_PyViz)                              |
