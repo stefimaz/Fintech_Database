@@ -4,6 +4,16 @@
 
 [Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
 
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Visualization](#visualization)
+* [User Experience](#user-experience)
+* [License](#license)  
+
+## Overview
+
 In this program, I've used various techniques to train and evaluate models with imbalanced classes. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers. You will be able to use a logistic regression model to compare two versions of the dataset, original and resampled. 
 
 ---
