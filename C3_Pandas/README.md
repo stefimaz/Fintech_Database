@@ -28,6 +28,12 @@ This project leverages python 3.7 with the following libraries:
 * Matplotlib
 
 ---
+## Sample Visulisations
+### Bitcoin price difference between 2 exchanges
+<img width="1165" alt="Screen Shot 2022-02-04 at 3 00 45 PM" src="https://user-images.githubusercontent.com/89653430/152595754-737266b1-ee83-4898-9746-8f5911be23b1.png">
+
+### Trades profits 
+<img width="514" alt="Screen Shot 2022-02-04 at 3 02 00 PM" src="https://user-images.githubusercontent.com/89653430/152595850-7a6dd93d-e6c1-48ba-991e-e5551b0b9e47.png">
 
 
 ## Usage
