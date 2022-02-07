@@ -1,10 +1,29 @@
-# PyViz
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=PyViz%20&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
+                                 
+
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Visualization](#visualization)
+* [License](#license)  
+
+---
+
+## Overview
 
 The application was created to provide data visualization, aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. It is a unique oportunity to review a seven year period of data to identify income streams for the potential investor.
 
 ---
 
-## Technologies
+## Requirements
 
 This project leverages python 3.7 and the PyViz Ecosystem.
 
@@ -33,11 +52,6 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 
 ---
 
-## Contributors
-
-[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
-
----
 
 ## License
 
