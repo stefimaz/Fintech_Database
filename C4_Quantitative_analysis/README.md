@@ -1,10 +1,29 @@
-# Risk Return Anaysis
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Risk%20Return%20Analysis%20&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
+                                 
+
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Visualization](#visualization)
+* [License](#license)  
+
+---
+
+## Overview
 
 This python project contains data preparation, analysis, and visualizations for key risk and return metrics to compare the S&P 500 to four other portfolios. The project will calculate risk and return metrics, like the daily returns, standard deviation, sharpe ratio and beta. It will provide the ability to identify the most appropriate risk-and-return portfolio to invest in.
 
 ---
 
-## Technologies
+## Requirements
 
 This project leverages python 3.7 with the following packages:
  
@@ -25,7 +44,7 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 
 ---
 
-## Sample Visualization and Metrics
+## Visualization
 
 Metrics and sample code
 ![image](https://user-images.githubusercontent.com/87351302/137637310-c0a810ff-f436-4713-8276-5c48f7b32072.png)
@@ -40,9 +59,6 @@ Sample Visualization
 ![image](https://user-images.githubusercontent.com/87351302/137637079-b0213d82-e25c-4339-aa08-e679646152e6.png)
 ![image](https://user-images.githubusercontent.com/87351302/137637045-134936a0-8306-4585-91f3-2766a20268f7.png)
 
-## Contributors
-
-[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
 
 ---
 
