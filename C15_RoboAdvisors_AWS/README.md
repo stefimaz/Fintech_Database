@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Robot%20Adviser%20&fontSize=30&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Robot%20Advisor%20&fontSize=30&fontColor=black)
 
 <!-- header is made with: https://github.com/kyechan99/capsule-render -->
 
