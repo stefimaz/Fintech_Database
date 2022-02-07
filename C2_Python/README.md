@@ -1,4 +1,23 @@
-# Lending Software
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Lending%20Application%20&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
+                                 
+
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Technologies](#technologies)
+* [Requirements](#requirements)
+* [Visualization](#visualization)
+* [License](#license)  
+
+---
+
+# Overview
 
 This is a python application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a `daily_rate_sheet` of loan criteria from various loan providers, asking the user a number of questions to evaluate their loan eligibility.
 Giving the user the ability to save their list of qualifying loans in a csv file.
@@ -15,7 +34,7 @@ This project leverages python 3.7 with the following packages:
 
 ---
 
-## Installation Guide
+## Requirements
 
 Before running the application first install the following dependencies.
 
@@ -26,7 +45,7 @@ Before running the application first install the following dependencies.
 
 ---
 
-## Usage
+## Visualization
 
 To use the loan qualifier application simply clone the repository and run the **app.py** with:
 
@@ -39,13 +58,6 @@ Upon launching the loan qualifier application you will be greeted with the follo
 ![Loan Qualifier Prompts](Images/loan_qualifier.png)
 
 
----
-
-## Contributors
-
-Brought to you by Stephane Masyn
-
-Stefimaz@gmail.com
 ---
 
 ## License
