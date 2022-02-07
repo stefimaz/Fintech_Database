@@ -38,14 +38,16 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ## Image
 
 
-### CSV File Created Identifying Inexpensive Loans
-![Inexpensive csv list created ](images/csv_file_created.PNG) 
+### Identifying Loans Value
+
+<img width="1204" alt="Screen Shot 2022-02-07 at 3 38 04 PM" src="https://user-images.githubusercontent.com/89653430/152868063-d24e0e9e-e5e0-4c0d-bf81-4280fa3ff2f4.png">
 
 --- 
 
 ## License
 
 ### **MIT License**
+
 
 MIT License
 
