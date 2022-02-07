@@ -1,4 +1,22 @@
-# Bitcoin Arbitrage 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Bitcoin%20Arbitrage%20&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
+                                 
+
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Visualization](#visualization)
+* [License](#license)  
+
+---
+
+## Overview
 
 Looking over historical data value of Bitcoin during the first three months of 2018 (January, February and March) on two different exchanges: Bitstamp and Coinbase. 
 
@@ -17,7 +35,7 @@ After analyzing the data, we can see the arbitrage between Coinbase and Bitstamp
 
 ---
 
-## Technologies
+## Requirements
 
 This project leverages python 3.7 with the following libraries:
 
@@ -27,8 +45,10 @@ This project leverages python 3.7 with the following libraries:
 
 * Matplotlib
 
+To use Bitcoin arbitrage Notebook simply open the **crypto_arbitrage.ipynb** file in Jupyter.
+
 ---
-## Sample Visulisations
+## Visualisation
 ### Bitcoin price difference between 2 exchanges
 <img width="1165" alt="Screen Shot 2022-02-04 at 3 00 45 PM" src="https://user-images.githubusercontent.com/89653430/152595754-737266b1-ee83-4898-9746-8f5911be23b1.png">
 
@@ -36,18 +56,9 @@ This project leverages python 3.7 with the following libraries:
 <img width="514" alt="Screen Shot 2022-02-04 at 3 02 00 PM" src="https://user-images.githubusercontent.com/89653430/152595850-7a6dd93d-e6c1-48ba-991e-e5551b0b9e47.png">
 
 
-## Usage
-
-To use Bitcoin arbitrage Notebook simply open the **crypto_arbitrage.ipynb** file in Jupyter.
 
 ---
 
-## Contributors
-
-Brought to you by Stephane Masyn
-
-Stefimaz@gmail.com
----
 
 ## License
 
