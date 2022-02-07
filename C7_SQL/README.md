@@ -1,10 +1,29 @@
-# ETF Analyzer
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=ETF%20Analyzer%20&fontSize=30&fontColor=black)
 
-In this Challenge assignment, I build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF. 
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
+                                 
 
 ---
 
-## Technologies
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Visualization](#visualization)
+* [License](#license)  
+
+---
+
+## Overview
+
+This application provides a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF. You will be able to analyze the daily returns of the ETF stocks both individually and as a whole and then deploy the visualizations to a web application by using the Voilà library. 
+
+---
+
+## Requirements
 
 This project leverages python 3.7 with the following libraries:
 
@@ -19,9 +38,7 @@ This project leverages python 3.7 with the following libraries:
 
 * [Voilà](https://voila.readthedocs.io/en/stable/) - For voila Documentation
 
----
-
-## Installation Guide For Voila
+### Installation Guide For Voila
 
 To install Voila, open a terminal window, and complete the following steps.
 
@@ -52,7 +69,7 @@ The Voilà library works only with Jupyter notebooks on localhost.
 
 ---
 
-## Run Voila In The terminal
+## Visualization
 
 Voilà accepts a path to the notebook and then generates a web app with any visualizations or output that were generated in the Jupyter notebook. The code is simple:
 ```shell
@@ -67,19 +84,13 @@ this screenshot of the deployed application using Voila.
 
 ---
 
-## Contributors
 
-Brought to you by Stephane Masyn
-
-Stefimaz@gmail.com
-
----
 
 ## License
 
 MIT License
 
-Copyright (c) [2021] [Stepahe_Masyn]
+Copyright (c) [2021] Stepahe_Masyn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
