@@ -1,10 +1,29 @@
-## Unsupervised Machine Learning
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Unsupervised%20Machine%20Learning%20&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
+                                 
+
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Visualization](#visualization)
+* [License](#license)  
+
+---
+
+## Overview
 
 In this week’s challenge, I have created a machine learning model that groups cryptocurrencies to assemble investment portfolios that are based on the profitability of those cryptocurrencies. You'll be able evaluate and the contrast the best value of KMeans, explained variance ratios, elbow curves and clusters.
 
 ---
 
-## Technologies
+## Requirements
 
 This project leverages python 3.7, scikit-lesarn and hvPlot.
 
@@ -35,11 +54,6 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 
 ---
 
-## Contributors
-
-[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
-
----
 
 ## License
 
