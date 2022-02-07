@@ -28,12 +28,9 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 
 ## Visualization
 
-![conda_list](Images/conda_list.PNG)
-![df_market_data_hvplot](Images/df_market_data_hvplot.PNG)
-![elbow_curve](Images/elbow_curve.PNG)
-![scatter_plot](Images/scatter_plot.PNG)
-![composite_elbow](Images/composite_elbow.PNG)
-![composite_scatter](Images/composite_scatter.PNG)
+![df_market_data_hvplot](Images/Market_plot.png)
+![elbow_curve](Images/Elbow_curve.png)
+![scatter_plot](Images/Scatter_plot.png)
 
 
 ---
