@@ -70,6 +70,8 @@ https://user-images.githubusercontent.com/89653430/152865261-ca05db22-33d4-4c9d-
 3. User will then be asked for the amount to invest.
 4. User will then be asked for their risk tolerance.
 5. User will then be provided their recommended investment allocation.
+
+
 https://user-images.githubusercontent.com/89653430/152865536-3bd2a461-4e1a-4471-a563-9e4cabf5860c.mov
 
 
