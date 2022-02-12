@@ -63,17 +63,14 @@ This project leverages the following modules:
 ![Enhance Functionality](Images/Kasei_xtra_functionality.png)
 ![Enhance Functionality](Images/Kasei_xtra_functionality2.png)
 
-
-## Short video demonstration. 
-![Video](Execution_Results/10eth_to_account2.png)
-### KaseiCoinCrowdsaleDeployer Contract Demo
-![Deploy kaseiCoinCrowsaleDeployer](images/.gif)
+### KaseiCoinCrowdsale Contract Deployment Demo
+![Deploy kaseiCoinCrowsale contracts](Images/Contracts_deploy.gif)
 
 ### KaseiCoinCrowdsale Contract Demo
-![Deploy kaseiCoinCrowsale and kaseiCoin](images/.gif)
+![Deploy kaseiCoinCrowsale and kaseiCoin](Images/.gif)
 
-### Compile KaseiCoinCrowdsaleDeployer Contract Demo
-![Deploy kaseiCoin](images/.gif)
+### KaseiCoinCrowdsaleDeployer Contract Demo
+![Deploy kaseiCoin](Images/.gif)
 
 ---
 
