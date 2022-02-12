@@ -33,9 +33,17 @@ I extended the crowdsale contract to enhance its functionality. To do so, I use 
 ## Requirements
 
 
-This project leverages Solidity 0.5.0.
-The file was opened and creadted using Remix IDE. 
-The remix IDE can be access here: https://remix.ethereum.org
+This project leverages the following modules:
+
+- Solidity - Create the smart contract and implement the joints saving application to work with ether.
+
+- Remix IDE - Write and edit solidity code to create the contracts. The remix IDE can be access here: https://remix.ethereum.org
+
+- MetaMask - Use digital wallet and a gateway for the Ethereum blockchain.
+
+- Ganache - This is a tool that allows us to quickly set up a local blockchain, which we can use to test and develop smart contracts.
+
+- OpenZeppelin - OpenZeppelin library provides a wide variety of contracts that are related to the ERC-20 token standard.
 
 ---
 
@@ -57,8 +65,15 @@ The remix IDE can be access here: https://remix.ethereum.org
 
 
 ## Short video demonstration. 
-![5 ETH to account 2](Execution_Results/10eth_to_account2.png)
+![Video](Execution_Results/10eth_to_account2.png)
+### KaseiCoinCrowdsaleDeployer Contract Demo
+![Deploy kaseiCoinCrowsaleDeployer](images/.gif)
 
+### KaseiCoinCrowdsale Contract Demo
+![Deploy kaseiCoinCrowsale and kaseiCoin](images/.gif)
+
+### Compile KaseiCoinCrowdsaleDeployer Contract Demo
+![Deploy kaseiCoin](images/.gif)
 
 ---
 
