@@ -66,8 +66,8 @@ This project leverages the following modules:
 ### KaseiCoinCrowdsale Contract Deployment Demo
 ![Deploy kaseiCoinCrowsale contracts](Images/Contracts_deploy.gif)
 
-### KaseiCoinCrowdsale Contract Demo
-![Deploy kaseiCoinCrowsale and kaseiCoin](Images/.gif)
+### KaseiCoinCrowdsale Contract Demo of Token Bought From Different Addresses
+![Deploy kaseiCoinCrowsale and kaseiCoin](Images/Token_buy.gif)
 
 ### KaseiCoinCrowdsaleDeployer Contract Demo
 ![Deploy kaseiCoin](Images/.gif)
