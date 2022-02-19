@@ -25,13 +25,13 @@ This repository contains all of the assignments from the [Columbia University Fi
 | Neural Network                   | [13 Neural Network](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C13_Neural_network)                     |
 | Algorithmic Trading              | [14_Algotihmic Trading](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C14_Algorithmic_trading)        |
 | AWS - Machine Learning           | [15_Robot Advisors](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C15_RoboAdvisors_AWS)      |
-| Project2.                        | [Praedico](https://github.com/stefimaz/Project2)                                                         |
+| Project2. Praedico               | [Praedico](https://github.com/stefimaz/Project2)                                                         |
 | Blockchain                       | [18_Blockchain](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C18_Blockchain_Python)                  |
 | Blockchain Wallets               | [19_Blockchain_Wallets](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C19_Blockchain_wallets)    |
 | Solidity                         | [20_Solidity](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C20_Smart_contract_Solidity)                |
 | Tokenomics                       | [21 Tokenomics](https://github.com/stefimaz/fintech_bootcamp_challenges/tree/main/C21_Tokenomics)                    |
 | Decentralized Applications       | [22 dApp Building](https://github.com/stefimaz/fintech_bootcamp_challenges/)                  |
-| Project3.                        | [](https://github.com/stefimaz/fintech_bootcamp_challenges/)                                                     |
+| Project3. Numisma                | [Numisma](https://github.com/stefimaz/Numisma)                                                     |
 
 ---
 
