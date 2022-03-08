@@ -2,7 +2,7 @@
 
 <!-- header is made with: https://github.com/kyechan99/capsule-render -->
 
-[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn-35b16817a/) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn-35b16817a/)
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn)
                                  
 
 ---
