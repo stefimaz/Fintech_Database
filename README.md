@@ -43,17 +43,26 @@ Throughout this course, gain of proficiency in numerous marketable technologies 
 ## Course Outcomes
 
 ● Build communication skills and demonstrate foundational knowledge required during technical interviews.
+
 ● Demonstrate strong teamwork and project management skills as a collaborator and independent contributor during the 
 development cycle of complex projects.
+
 ● Apply modern financial technologies within the context of working at an investment bank, insurance agency, or any 
 player in the financial industry.
+
 ● Employ financial and statistical analysis techniques to model, predict, and forecast trends and model financial portfolios.
+
 ● Make API requests to pull financial data, and use a variety of Python packages to run financial analysis on large datasets.
+
 ● Conduct time series analysis to develop financial forecasts, and analyze forecasts for accuracy.
+
 ● Work with databases on the AWS cloud in the service of financial applications.
+
 ● Use a variety of machine learning algorithms and understand their proper application within the field of finance.
+
 ● Design and implement smart contracts with the Solidity programming language.
+
 ● Build an Ethereum blockchain and understand how transactions are validated on a distributed ledger.
 
 
-Stephane Masyn
+[Stephane Masyn](https://www.linkedin.com/in/stephane-masyn) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  Stephane Masyn" width=15/>](https://www.linkedin.com/in/stephane-masyn)
