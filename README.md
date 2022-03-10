@@ -5,7 +5,13 @@
 This repository contains all of the assignments from the [Columbia University FinTech Bootcamp.](https://bootcamp.cvn.columbia.edu/fintech/)
 
 ---
+## Executive Summary
 
+The following table of contents represent all of the challenges presented during the Columbia Engineering FinTech Bootcamp. 
+This is a rigorous and fast-paced bootcamp that focuses on the practical technical skills needed to use data analytics, machine learning, and blockchain technologies in the FinTech industry. 
+Throughout this course, gain of proficiency in numerous marketable technologies and skills, including Python, Pandas, SQL, AWS, Ethereum, and more was accomplished.  
+
+---
 #### Table of Contents
 
 
@@ -33,5 +39,21 @@ This repository contains all of the assignments from the [Columbia University Fi
 | Project3. Numisma                | [Numisma](https://github.com/stefimaz/Numisma)                                                     |
 
 ---
+
+## Course Outcomes
+
+● Build communication skills and demonstrate foundational knowledge required during technical interviews.
+● Demonstrate strong teamwork and project management skills as a collaborator and independent contributor during the 
+development cycle of complex projects.
+● Apply modern financial technologies within the context of working at an investment bank, insurance agency, or any 
+player in the financial industry.
+● Employ financial and statistical analysis techniques to model, predict, and forecast trends and model financial portfolios.
+● Make API requests to pull financial data, and use a variety of Python packages to run financial analysis on large datasets.
+● Conduct time series analysis to develop financial forecasts, and analyze forecasts for accuracy.
+● Work with databases on the AWS cloud in the service of financial applications.
+● Use a variety of machine learning algorithms and understand their proper application within the field of finance.
+● Design and implement smart contracts with the Solidity programming language.
+● Build an Ethereum blockchain and understand how transactions are validated on a distributed ledger.
+
 
 Stephane Masyn
