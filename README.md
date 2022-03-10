@@ -12,7 +12,7 @@ This is a rigorous and fast-paced bootcamp that focuses on the practical technic
 Throughout this course, gain of proficiency in numerous marketable technologies and skills, including Python, Pandas, SQL, AWS, Ethereum, and more was accomplished.  
 
 ---
-#### Table of Contents
+## Table of Contents
 
 
 | Class                            | Repo Link                                                                                                    |
